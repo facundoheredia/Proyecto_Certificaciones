@@ -1,0 +1,11 @@
+main {
+    min-height: 95vh;
+}
+
+td {
+    height: 5vh;
+}
+
+td:first-child {
+    font-weight: bold;
+}
